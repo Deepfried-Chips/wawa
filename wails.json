@@ -1,0 +1,12 @@
+{
+  "name": "wawa",
+  "outputfilename": "wawa",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Deepfried Chips",
+    "email": "33133709+Deepfried-Chips@users.noreply.github.com"
+  }
+}
